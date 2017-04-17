@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="textColorDark">#f6f6f6</color>
+    <color name="textColorLight">#f6f6f6</color>
+    <color name="textColor">#f3e5f5</color>
+    <color name="textDark">#000</color>
+
+    <color name="lightUpRectangle">#cf3721</color>
+    <color name="cellRectangle">#f1f3ce</color>
+    <color name="backgroundRectangle">#de7a22</color>
+
+    <color name="toolbar">#de7a22</color>
+    <color name="background">#f4cc70</color>
+
+    <color name="cellColor2">#7f8c8d</color>
+    <color name="cellColor4">#D84315</color>
+    <color name="cellColor8">#FFB300</color>
+    <color name="cellColor16">#673AB7</color>
+    <color name="cellColor32">#C51162</color>
+    <color name="cellColor64">#9E9D24</color>
+    <color name="cellColor128">#7CB342</color>
+    <color name="cellColor256">#43A047</color>
+    <color name="cellColor512">#4DB6AC</color>
+    <color name="cellColor1024">#00695C</color>
+    <color name="cellColor2048">#AA00FF</color>
+    <color name="cellColor4096">#880E4F</color>
+    <color name="fadeRectangle">#d6cdc4</color>
+
+</resources>

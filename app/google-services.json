@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "546520856180",
+    "firebase_url": "https://admob-app-id-1157651437.firebaseio.com",
+    "project_id": "admob-app-id-1157651437",
+    "storage_bucket": "admob-app-id-1157651437.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546520856180:android:039e40bc12aa5ba6",
+        "android_client_info": {
+          "package_name": "aarkay.a2048game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546520856180-befcmf35r65knf3jjpkamgsf5u8nkfam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLupM0dB6dTUuHr2-9t6Xsg_x_niLCY1w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
